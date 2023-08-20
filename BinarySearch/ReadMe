@@ -1,0 +1,2 @@
+Binary Search is a searching technique with worst time complexity as O(logn).
+Middle element is found in each iteration.
