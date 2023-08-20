@@ -1,2 +1,4 @@
-Binary Search is a searching technique with worst time complexity as O(logn).
+Binary Search is a searching technique.
+Worst time complexity as O(logn).
 Middle element is found in each iteration.
+This project consists different variations of binary search and possible questions on binary search.
