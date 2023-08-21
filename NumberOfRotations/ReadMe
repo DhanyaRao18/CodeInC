@@ -1,0 +1,3 @@
+Program finds number of rotations done on a sorted array
+Input: Rotated sorted array
+Output: Number of times element rotated
