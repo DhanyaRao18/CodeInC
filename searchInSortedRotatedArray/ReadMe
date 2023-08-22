@@ -1,0 +1,4 @@
+Program to search a given element in nearly sorted array.
+Nearly sorted array is first sorted and rotated.
+Input is sorted rotated array.
+Output is position of given element or statement not found.
