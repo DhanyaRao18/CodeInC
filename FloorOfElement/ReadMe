@@ -1,0 +1,9 @@
+GFG  ->  https://www.geeksforgeeks.org/floor-in-a-sorted-array/
+
+Given a sorted array and a value x, the floor of x is the largest element in the array smaller than or equal to x. Write efficient functions to find the floor of x
+
+Input: 
+arr[] = {1, 2, 8, 10, 10, 12, 19}
+x = 5
+
+Output: 2
