@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693473475 source:d:\c\ceilofelement\main.c
+	<stdio.h>
+	<stdlib.h>
+
