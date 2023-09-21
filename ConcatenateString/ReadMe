@@ -1,0 +1,8 @@
+Given two strings, concatenate to give one string without using strcat().
+
+Input:
+color
+ful
+
+Output:
+colorful
